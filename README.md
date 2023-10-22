@@ -2,14 +2,16 @@
 
 **EN**
 
-This project is a reworking of the HS3 project website. It is built with create-react-app and as a single-page application.
+This project is the backend of the reworked [HS3 website](https://github.com/Zepthot/hs3-project). It is built with create-react-app and as a single-page application.
 
 **FR**
 
-Ce projet est un retravaille du site web du projet HS3. Il est construit avec create-react-app et en application monopage.
+Ce projet est le backend du retravaille du site web du [projet HS3](https://github.com/Zepthot/hs3-project). Il est construit avec create-react-app et en application monopage.
 
 ## Available Scripts
 In the project directory, you can run:
 
-### node server
+### nodemon server
 Runs the app in the development mode.
+
+You need to have a Mongo database created and to create an ".env" file with the login and password for writing.
